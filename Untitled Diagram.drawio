@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-05T17:09:38.158Z" agent="5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="001yXfzce6fFObc03KWS" version="13.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-05T17:13:47.212Z" agent="5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="ByOWg4aJzuk9NrYUU6pi" version="13.5.5" type="github">
   <diagram id="w2r-ZYbkxM-OtNSrUkWs" name="Page-1">
     <mxGraphModel dx="862" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -102,7 +102,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="siOsUkltjjiD13jDmhsd-30" value="professores" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="421" y="1120" width="120" height="60" as="geometry" />
+          <mxGeometry x="421" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="siOsUkltjjiD13jDmhsd-31" value="n" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="siOsUkltjjiD13jDmhsd-32" target="siOsUkltjjiD13jDmhsd-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -111,7 +111,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="siOsUkltjjiD13jDmhsd-32" value="tem aula" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="441" y="980" width="80" height="80" as="geometry" />
+          <mxGeometry x="441" y="940" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="siOsUkltjjiD13jDmhsd-33" value="n" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="siOsUkltjjiD13jDmhsd-25" target="siOsUkltjjiD13jDmhsd-32">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
